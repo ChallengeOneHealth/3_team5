@@ -4,7 +4,7 @@
 ## Pitchvideo
 Graphik anklicken um Video zu starten!
 
-[![Challenge One Health MUD](challengeonehealthmud.jpg)](https://youtu.be/nSFE1z9yMpg)
+[![Challenge One Health MUD](https://raw.githubusercontent.com/hemmerling/challengeonehealthmud/master/challengeonehealthmud.jpg)](https://youtu.be/nSFE1z9yMpg)
 
 auf dem [YouTube Channel "Rolf Hemmerling"](http://www.youtube.com/channel/UCmionNDYdoE1AEB-3NVVZeQ)
 
