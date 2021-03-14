@@ -28,7 +28,7 @@ Eine positive vorbeugende oder eine Pandemie begeleitende Beschäftigung mit dem
 
 Häufig wird nichtstaatliche Öffentlichkeitarbeit zu brennenden sozialen, wirtschaftlichen und ökologischen Problemen durch unabhängige, nichtstaatliche Organisationen ( NGOs - Non-Governmental Organisation ) gemacht. Dabei kann in diesem speziellen Fall auch ich als Einzelperson in die Rolle einer NGO schlüpfen, "Dank" dem Internet und der daraus eventuell möglichen Sichtbarkeit für alle Internet-Nutzer.
 
-Mein geplante Gamafication-Anwendung ist der "Challenge One Health MUD " ( "Challenge One Health Multi User Dungeon" ).
+Mein geplante Gamification-Anwendung ist der "Challenge One Health MUD " ( "Challenge One Health Multi User Dungeon" ).
 
 Was ist ein MUD:
 
